@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     I am <b>Sebastian Miguel S. Angeles</b>, a 4th year <b>BSIT Web and Mobile Application</b> undergraduate from <b>FEU Insitute of Technology</b>.
-    An aspiring <b>Web Designer,</b> &nbsp; and a<b>UI/UX Designer & Front-end Web Developer.</b> 
+    An aspiring <b>Web Designer,</b> &nbsp; and a<b> UI/UX Designer & Front-end Web Developer.</b> 
   <br>
   <b><i></i></b>
 </p>
