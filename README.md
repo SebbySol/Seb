@@ -50,6 +50,8 @@ I’m passionate about turning ideas into clean, functional, and user-centered d
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Kiro](https://img.shields.io/badge/Kiro-AI%20Assistant-7B42F6?style=for-the-badge&logo=sparkles&logoColor=white)&nbsp;
+![Cursor](https://img.shields.io/badge/Cursor-AI%20Editor-2D2D2D?style=for-the-badge&logo=cursor&logoColor=white)&nbsp;
 
 ###### Platforms & Hosting:
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
