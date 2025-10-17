@@ -9,7 +9,7 @@
 <!-- About me -->
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
 
-<img align="right" width=200px alt="Pedro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2JiZnFlcW50aXlyNzJ1NWRvZnVjeWNuM2psYTM3dnJmN2lpbTF5MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h4y0sg9fCZKHkExyG2/giphy.gif"/>
+<img align="right" width=200px alt="Pedro" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnV4dGxldng4Z3Q0bWMwMzNneGJ5djF1YjRnN2dzcm0wczVieTM0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tnnpcYVRNJGlHy0/giphy.gif"/>
 
 I'm **Sean (Sebastian Miguel S. Angeles)** — a **Bachelor of Science in Information Technology - Web and Mobile Application Development** student at **FEU Institute of Technology**.  
 I specialize in **Web Design** and **UI/UX Design**, crafting modern, intuitive, and responsive interfaces that focus on user experience and visual appeal.  
