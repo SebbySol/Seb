@@ -70,6 +70,7 @@ I’m passionate about turning ideas into clean, functional, and user-centered d
         <a href="https://github.com/SebbySol/TQC" target="_blank">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQaMhaDNGSNWHJYlN-v1JDjqfq4T_O2e1oP5KsljEt3RpeBAVKWzbhr4uC1do3HtkPO8&usqp=CAU" width="200" style="object-fit: cover;" alt="TQC Project">
         </a>
+          <br>
         <p>
           <a href="https://github.com/SebbySol/TQC" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
