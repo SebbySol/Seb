@@ -68,7 +68,7 @@ I’m passionate about turning ideas into clean, functional, and user-centered d
       <h3 align="center">TQC: A Web-Based EHR & Scheduling System</h3>
       <div align="center">
         <a href="https://github.com/SebbySol/TQC" target="_blank">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQaMhaDNGSNWHJYlN-v1JDjqfq4T_O2e1oP5KsljEt3RpeBAVKWzbhr4uC1do3HtkPO8&usqp=CAU" width="500" style="object-fit: cover;" alt="TQC Project">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQaMhaDNGSNWHJYlN-v1JDjqfq4T_O2e1oP5KsljEt3RpeBAVKWzbhr4uC1do3HtkPO8&usqp=CAU" width="100" style="object-fit: cover;" alt="TQC Project">
         </a>
         <p>
           <a href="https://github.com/SebbySol/TQC" target="_blank">
